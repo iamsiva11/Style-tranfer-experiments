@@ -51,3 +51,11 @@ image (extracted from a deep layer) and the features of the combination image,ke
 
 The total variation loss imposes local spatial continuity between
 the pixels of the combination image, giving it visual coherence.In other words, a regularisation term that encourages spatial smoothness.
+
+
+
+## Papers
+
+[A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
+
+[Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses](https://arxiv.org/abs/1701.08893)
